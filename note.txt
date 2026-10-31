@@ -1,7 +1,4 @@
 version 1
 second version
-<<<<<<< Updated upstream
 versio 5
-=======
 version 4
->>>>>>> Stashed changes
